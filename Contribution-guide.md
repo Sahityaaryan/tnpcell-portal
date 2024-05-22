@@ -22,6 +22,7 @@ user: env('DATABASE_USERNAME', 'postgres'),
 password: env('DATABASE_PASSWORD', '2006001'),
 
 schema: env('DATABASE_SCHEMA', 'public'), 
+}
 ```
 
 
